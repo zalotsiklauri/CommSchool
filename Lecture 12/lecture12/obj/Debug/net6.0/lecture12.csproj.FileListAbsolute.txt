@@ -1,0 +1,15 @@
+/Users/zalotsiklauri/Projects/lecture12/lecture12/bin/Debug/net6.0/lecture12
+/Users/zalotsiklauri/Projects/lecture12/lecture12/bin/Debug/net6.0/lecture12.deps.json
+/Users/zalotsiklauri/Projects/lecture12/lecture12/bin/Debug/net6.0/lecture12.runtimeconfig.json
+/Users/zalotsiklauri/Projects/lecture12/lecture12/bin/Debug/net6.0/lecture12.dll
+/Users/zalotsiklauri/Projects/lecture12/lecture12/bin/Debug/net6.0/lecture12.pdb
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.csproj.AssemblyReference.cache
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.AssemblyInfoInputs.cache
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.AssemblyInfo.cs
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.csproj.CoreCompileInputs.cache
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.dll
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/refint/lecture12.dll
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.pdb
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/lecture12.genruntimeconfig.cache
+/Users/zalotsiklauri/Projects/lecture12/lecture12/obj/Debug/net6.0/ref/lecture12.dll

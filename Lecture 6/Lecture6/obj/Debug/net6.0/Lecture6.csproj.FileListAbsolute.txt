@@ -1,0 +1,15 @@
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.csproj.AssemblyReference.cache
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.AssemblyInfoInputs.cache
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.AssemblyInfo.cs
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.csproj.CoreCompileInputs.cache
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/bin/Debug/net6.0/Lecture6
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/bin/Debug/net6.0/Lecture6.deps.json
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/bin/Debug/net6.0/Lecture6.runtimeconfig.json
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/bin/Debug/net6.0/Lecture6.dll
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/bin/Debug/net6.0/Lecture6.pdb
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.dll
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/refint/Lecture6.dll
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.pdb
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/Lecture6.genruntimeconfig.cache
+/Users/zalotsiklauri/Projects/Lecture/Lecture 6/Lecture6/Lecture6/obj/Debug/net6.0/ref/Lecture6.dll

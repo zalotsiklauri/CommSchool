@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CB99BDE7-B319-44D4-BD4D-AB0DDD58D9EE}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="lecture12/task2.cs">
+    <Files>
+      <File FileName="lecture12/Program.cs" Line="21" Column="14" />
+      <File FileName="lecture12/factory_task1.cs" Line="23" Column="10" />
+      <File FileName="lecture12/task2.cs" Line="9" Column="1" />
+      <File FileName="lecture12/abstract_task1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lecture12" expanded="True">
+            <Node name="lecture12" expanded="True">
+              <Node name="abstract_task1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lecture12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

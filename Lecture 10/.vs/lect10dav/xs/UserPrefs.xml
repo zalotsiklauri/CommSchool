@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C781722E-B9F8-42D0-8473-9E334E780711}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lect10dav FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Lecture_HomeWorks/lecture10-dav1/FileWorker.cs">
+    <Files>
+      <File FileName="../Lecture_HomeWorks/lecture10-dav1/FileWorker.cs" Line="8" Column="9" />
+      <File FileName="../Lecture_HomeWorks/lecture10-dav1/Program.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lect10dav" expanded="True">
+            <Node name="lect10dav" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
